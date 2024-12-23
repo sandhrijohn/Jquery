@@ -1,5 +1,8 @@
 # Jquery
 
+Created a scrollbar and displayed some text on the webpage to the text size as we drag to move the scroll bar from left to right and vice versa.
+
+The minimum size here is 10px and the maximum should be 100px and it displays least and maximum size.
 
 
 
